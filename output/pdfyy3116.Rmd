@@ -36,6 +36,20 @@ output:
   Taking the factors above into account, the data is chosen as the primary target of analysis. The data collection was conducted between **April 10, 2020 and April 18, 2020**. The combined final sample includes responses from *3,080* adult citizens from across the United States.
 
 
+  
+  The analysis focuses on 8 main questions:
+1. Question1: What factors have the highest correlation with the voters’ choice?
+2. Question2: How does gender affect voters’ choice? 
+3. Question3: How does marital status affect voters’ choice? 
+4. Question4: How does educational level affect voters’ choice?
+5. Question5: What emotions are held by supporters for Trump and Biden? 
+6. Question6: How do supporters of Trump and Biden differ in their ethnicity?
+7. Question7: How do supporters of Trump and Biden differ in their voting history or other choices?
+8. Question8: What do supporters of Trump and Biden differ in their economic circumstances?
+  
+  In answering these questions, the study takes shape and visualization of data is also formed.
+  
+
 ```{r load libraries, warning=FALSE, message=FALSE, include=FALSE,echo=FALSE}
 packages.used=as.list(
   c(

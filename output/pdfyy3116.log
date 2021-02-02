@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.2)  3 FEB 2021 04:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.2)  3 FEB 2021 04:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -483,33 +483,32 @@ Package pdftex.def Info: ../figs/anes.png  used on input line 126.
 [1
 
 {/Users/aprilyang/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-]
-<pdfyy3116_files/figure-latex/missing values-1.pdf, id=97, 459.7175pt x 310.158
-75pt>
+] [2 <../figs/anes.png>]
+<pdfyy3116_files/figure-latex/missing values-1.pdf, id=103, 459.7175pt x 310.15
+875pt>
 File: pdfyy3116_files/figure-latex/missing values-1.pdf Graphic file (type pdf)
 
 <use pdfyy3116_files/figure-latex/missing values-1.pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/missing values-1.pdf  use
-d on input line 166.
+d on input line 180.
 (pdftex.def)             Requested size: 459.71637pt x 310.15799pt.
-[2 <../figs/anes.png>]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-98.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
+12.
 (/Users/aprilyang/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 200.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 214.
 [3 <./pdfyy3116_files/figure-latex/missing values-1.pdf>]
-<../figs/top30.png, id=122, 938.50626pt x 715.67375pt>
+<../figs/top30.png, id=119, 938.50626pt x 715.67375pt>
 File: ../figs/top30.png Graphic file (type png)
 <use ../figs/top30.png>
-Package pdftex.def Info: ../figs/top30.png  used on input line 216.
+Package pdftex.def Info: ../figs/top30.png  used on input line 230.
 (pdftex.def)             Requested size: 469.75319pt x 358.2182pt.
-<../figs/top31-50.png, id=123, 936.49875pt x 481.8pt>
+<../figs/top31-50.png, id=120, 936.49875pt x 481.8pt>
 File: ../figs/top31-50.png Graphic file (type png)
 <use ../figs/top31-50.png>
-Package pdftex.def Info: ../figs/top31-50.png  used on input line 218.
+Package pdftex.def Info: ../figs/top31-50.png  used on input line 232.
 (pdftex.def)             Requested size: 469.76294pt x 241.67868pt.
 [4 <../figs/top30.png>]
 <pdfyy3116_files/figure-latex/sex balance-1.pdf, id=129, 459.7175pt x 313.17pt>
@@ -517,7 +516,7 @@ Package pdftex.def Info: ../figs/top31-50.png  used on input line 218.
 File: pdfyy3116_files/figure-latex/sex balance-1.pdf Graphic file (type pdf)
 <use pdfyy3116_files/figure-latex/sex balance-1.pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/sex balance-1.pdf  used o
-n input line 245.
+n input line 259.
 (pdftex.def)             Requested size: 459.7304pt x 313.17877pt.
 [5 <../figs/top31-50.png>]
 <pdfyy3116_files/figure-latex/marital balance-1.pdf, id=136, 459.7175pt x 313.1
@@ -526,7 +525,7 @@ File: pdfyy3116_files/figure-latex/marital balance-1.pdf Graphic file (type pdf
 )
 <use pdfyy3116_files/figure-latex/marital balance-1.pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/marital balance-1.pdf  us
-ed on input line 255.
+ed on input line 269.
 (pdftex.def)             Requested size: 459.7304pt x 313.17877pt.
 [6 <./pdfyy3116_files/figure-latex/sex balance-1.pdf>]
 <pdfyy3116_files/figure-latex/educ balance-1.pdf, id=149, 459.7175pt x 313.17pt
@@ -534,7 +533,7 @@ ed on input line 255.
 File: pdfyy3116_files/figure-latex/educ balance-1.pdf Graphic file (type pdf)
 <use pdfyy3116_files/figure-latex/educ balance-1.pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/educ balance-1.pdf  used 
-on input line 276.
+on input line 290.
 (pdftex.def)             Requested size: 459.7304pt x 313.17877pt.
 [7 <./pdfyy3116_files/figure-latex/marital balance-1.pdf>]
 <pdfyy3116_files/figure-latex/plot for sex and vote choice-1.pdf, id=163, 451.6
@@ -543,21 +542,21 @@ File: pdfyy3116_files/figure-latex/plot for sex and vote choice-1.pdf Graphic f
 ile (type pdf)
 <use pdfyy3116_files/figure-latex/plot for sex and vote choice-1.pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/plot for sex and vote cho
-ice-1.pdf  used on input line 319.
+ice-1.pdf  used on input line 333.
 (pdftex.def)             Requested size: 451.70016pt x 313.17877pt.
 [8 <./pdfyy3116_files/figure-latex/educ balance-1.pdf>]
 <pdfyy3116_files/figure-latex/harass-1.pdf, id=177, 451.6875pt x 313.17pt>
 File: pdfyy3116_files/figure-latex/harass-1.pdf Graphic file (type pdf)
 <use pdfyy3116_files/figure-latex/harass-1.pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/harass-1.pdf  used on inp
-ut line 347.
+ut line 361.
 (pdftex.def)             Requested size: 451.70016pt x 313.17877pt.
 [9 <./pdfyy3116_files/figure-latex/plot for sex and vote choice-1.pdf>]
 <pdfyy3116_files/figure-latex/freecol1-1.pdf, id=189, 451.6875pt x 313.17pt>
 File: pdfyy3116_files/figure-latex/freecol1-1.pdf Graphic file (type pdf)
 <use pdfyy3116_files/figure-latex/freecol1-1.pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/freecol1-1.pdf  used on i
-nput line 370.
+nput line 384.
 (pdftex.def)             Requested size: 451.70016pt x 313.17877pt.
 [10 <./pdfyy3116_files/figure-latex/harass-1.pdf>]
 <pdfyy3116_files/figure-latex/plot for marital status and vote choice-1.pdf, id
@@ -567,7 +566,7 @@ f Graphic file (type pdf)
 <use pdfyy3116_files/figure-latex/plot for marital status and vote choice-1.pdf
 >
 Package pdftex.def Info: pdfyy3116_files/figure-latex/plot for marital status a
-nd vote choice-1.pdf  used on input line 396.
+nd vote choice-1.pdf  used on input line 410.
 (pdftex.def)             Requested size: 451.70016pt x 313.17877pt.
 [11 <./pdfyy3116_files/figure-latex/freecol1-1.pdf>]
 <pdfyy3116_files/figure-latex/plot for educational status and vote choice-1.pdf
@@ -577,7 +576,7 @@ File: pdfyy3116_files/figure-latex/plot for educational status and vote choice-
 <use pdfyy3116_files/figure-latex/plot for educational status and vote choice-1
 .pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/plot for educational stat
-us and vote choice-1.pdf  used on input line 416.
+us and vote choice-1.pdf  used on input line 430.
 (pdftex.def)             Requested size: 451.70016pt x 313.17877pt.
 [12 <./pdfyy3116_files/figure-latex/plot for marital status and vote choice-1.p
 df>]
@@ -585,40 +584,40 @@ df>]
 File: pdfyy3116_files/figure-latex/corrplot-1.pdf Graphic file (type pdf)
 <use pdfyy3116_files/figure-latex/corrplot-1.pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/corrplot-1.pdf  used on i
-nput line 435.
+nput line 449.
 (pdftex.def)             Requested size: 357.34502pt x 321.20901pt.
 [13 <./pdfyy3116_files/figure-latex/plot for educational status and vote choice
 -1.pdf>]
 <../figs/emotion.png, id=241, 1204.5pt x 1606.0pt>
 File: ../figs/emotion.png Graphic file (type png)
 <use ../figs/emotion.png>
-Package pdftex.def Info: ../figs/emotion.png  used on input line 447.
+Package pdftex.def Info: ../figs/emotion.png  used on input line 461.
 (pdftex.def)             Requested size: 469.75311pt x 626.3375pt.
 <../figs/race.png, id=242, 702.625pt x 533.995pt>
 File: ../figs/race.png Graphic file (type png)
 <use ../figs/race.png>
-Package pdftex.def Info: ../figs/race.png  used on input line 474.
+Package pdftex.def Info: ../figs/race.png  used on input line 488.
 (pdftex.def)             Requested size: 469.76996pt x 357.02516pt.
 <../figs/race emotions2.png, id=243, 1003.75pt x 1606.0pt>
 File: ../figs/race emotions2.png Graphic file (type png)
 <use ../figs/race emotions2.png>
-Package pdftex.def Info: ../figs/race emotions2.png  used on input line 494.
+Package pdftex.def Info: ../figs/race emotions2.png  used on input line 508.
 (pdftex.def)             Requested size: 406.53185pt x 650.45096pt.
 
-LaTeX Warning: Float too large for page by 23.96538pt on input line 496.
+LaTeX Warning: Float too large for page by 23.96538pt on input line 510.
 
 [14 <./pdfyy3116_files/figure-latex/corrplot-1.pdf>] [15 <../figs/emotion.png>]
 [16 <../figs/race.png>] [17 <../figs/race emotions2.png>]
 <../figs/sankey.png, id=275, 1405.25pt x 959.585pt>
 File: ../figs/sankey.png Graphic file (type png)
 <use ../figs/sankey.png>
-Package pdftex.def Info: ../figs/sankey.png  used on input line 546.
+Package pdftex.def Info: ../figs/sankey.png  used on input line 560.
 (pdftex.def)             Requested size: 469.75925pt x 320.77844pt.
 <pdfyy3116_files/figure-latex/fin choice-1.pdf, id=277, 453.695pt x 313.17pt>
 File: pdfyy3116_files/figure-latex/fin choice-1.pdf Graphic file (type pdf)
 <use pdfyy3116_files/figure-latex/fin choice-1.pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/fin choice-1.pdf  used on
- input line 580.
+ input line 594.
 (pdftex.def)             Requested size: 453.6939pt x 313.16922pt.
 [18] [19 <../figs/sankey.png>]
 <pdfyy3116_files/figure-latex/fin covid-1.pdf, id=294, 464.73625pt x 309.155pt>
@@ -626,7 +625,7 @@ Package pdftex.def Info: pdfyy3116_files/figure-latex/fin choice-1.pdf  used on
 File: pdfyy3116_files/figure-latex/fin covid-1.pdf Graphic file (type pdf)
 <use pdfyy3116_files/figure-latex/fin covid-1.pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/fin covid-1.pdf  used on 
-input line 614.
+input line 628.
 (pdftex.def)             Requested size: 464.74928pt x 309.16367pt.
 [20 <./pdfyy3116_files/figure-latex/fin choice-1.pdf>]
 <pdfyy3116_files/figure-latex/fin covid e-1.pdf, id=307, 464.73625pt x 309.155p
@@ -634,7 +633,7 @@ t>
 File: pdfyy3116_files/figure-latex/fin covid e-1.pdf Graphic file (type pdf)
 <use pdfyy3116_files/figure-latex/fin covid e-1.pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/fin covid e-1.pdf  used o
-n input line 616.
+n input line 630.
 (pdftex.def)             Requested size: 464.74928pt x 309.16367pt.
 [21 <./pdfyy3116_files/figure-latex/fin covid-1.pdf> <./pdfyy3116_files/figure-
 latex/fin covid e-1.pdf>]
@@ -642,7 +641,7 @@ latex/fin covid e-1.pdf>]
 File: pdfyy3116_files/figure-latex/fin wall-1.pdf Graphic file (type pdf)
 <use pdfyy3116_files/figure-latex/fin wall-1.pdf>
 Package pdftex.def Info: pdfyy3116_files/figure-latex/fin wall-1.pdf  used on i
-nput line 629.
+nput line 643.
 (pdftex.def)             Requested size: 453.6939pt x 313.16922pt.
 [22 <./pdfyy3116_files/figure-latex/fin wall-1.pdf>] (./pdfyy3116.aux)
 Package rerunfilecheck Info: File `pdfyy3116.out' has not changed.
@@ -666,7 +665,7 @@ ilyang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/apri
 lyang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></Users/april
 yang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></Users/aprily
 ang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on pdfyy3116.pdf (22 pages, 2137537 bytes).
+Output written on pdfyy3116.pdf (22 pages, 2137943 bytes).
 PDF statistics:
  385 PDF objects out of 1000 (max. 8388607)
  293 compressed objects within 3 object streams
