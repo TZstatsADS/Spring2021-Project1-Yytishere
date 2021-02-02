@@ -1,4 +1,15 @@
 ---
+title: "What Lies Behind Voters' Choice? 
+  --- A Data-Question Story on the Pre-Election Survey"
+author: "Yutong Yang yy3116"
+date: "2/3/2021"
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 3
+---
+
+---
 title: What Lies Behind Voters' Choice? 
   --- A Data-Question Story on the Pre-Election Survey
 author: Yutong(April) Yang yy3116
@@ -23,7 +34,8 @@ output:
   Nevertheless, the data set still reveals valuable information as it reflects what American voters think when they are provided with a long series of questions. Besides, this being the only available ANES data for 2020 presidential election makes it relatively appropriate for understanding the voters' opinion and choice.
 
   Taking the factors above into account, the data is chosen as the primary target of analysis. The data collection was conducted between **April 10, 2020 and April 18, 2020**. The combined final sample includes responses from *3,080* adult citizens from across the United States.
-  
+
+
   
   The analysis focuses on 8 main questions:
 1. Question1: What factors have the highest correlation with the voters’ choice?
@@ -36,7 +48,7 @@ output:
 8. Question8: What do supporters of Trump and Biden differ in their economic circumstances?
   
   In answering these questions, the study takes shape and visualization of data is also formed.
-
+  
 
 ```{r load libraries, warning=FALSE, message=FALSE, include=FALSE,echo=FALSE}
 packages.used=as.list(
